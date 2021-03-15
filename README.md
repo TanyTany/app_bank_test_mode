@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/oarg9b17hvtpwuiv?svg=true)](https://ci.appveyor.com/project/TanyTany/app-bank-test-mode)
